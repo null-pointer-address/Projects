@@ -205,7 +205,7 @@ export default function App() {
                   <span className={`${t.accent} transition-colors duration-500`}>Resolve.</span>
                 </h1>
                 <p className={`text-xl md:text-3xl ${t.subtext} font-light leading-relaxed max-w-4xl tracking-tight transition-colors duration-500`}>
-                  <span className={`${t.text} font-semibold transition-colors duration-500`}>12 years at Dell Technologies</span> Building on foundation of precise 
+                  <span className={`${t.text} font-semibold transition-colors duration-500`}>12 years at Dell Technologies.</span> Building on foundation of precise 
                   <span className={`${t.text} italic font-medium transition-colors duration-500`}> remote diagnostics.</span> 
                   Evolving into the large-scale orchestration of 
                   <span className={`${t.text} italic font-medium transition-colors duration-500`}> distributed autonomous intelligence.</span>
